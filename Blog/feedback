@@ -1,0 +1,17 @@
+Estilo en línea en el <header> y <footer>: Es posible que prefieras mover los estilos en línea (como los de background-color y padding) a una hoja de estilos externa (CSS) para mayor claridad y mantenimiento.
+Colores y contraste: El color de fondo de la página (#dbeeff, azul claro) y el del encabezado (#003366, azul oscuro) se complementan bien, pero asegúrate de que haya suficiente contraste entre el texto y el fondo para mejorar la accesibilidad.
+Enlaces y accesibilidad:
+    Los enlaces a los hoteles tienen imágenes que se enlazan correctamente. Asegúrate de que cada imagen tenga un texto alternativo descriptivo (atributo alt) para mejorar la accesibilidad y SEO.
+    El tamaño de las imágenes es adecuado, pero podrías usar unidades relativas (como % o vw/vh) para hacer que se adapten mejor a diferentes tamaños de pantalla.
+Optimización de imágenes: Asegúrate de que las imágenes estén optimizadas para web, de modo que no ralentice la carga de la página, especialmente en dispositivos móviles.
+Footer y contacto: El diseño del footer está claro, pero para mejorar la accesibilidad, puedes agregar un <nav> en lugar de solo los enlaces, con etiquetas adecuadas para cada sección (por ejemplo, <nav><ul><li><a>...</a></li></ul></nav>).
+Uso de <br>: El uso de <br> para la separación de párrafos y secciones podría reemplazarse por márgenes en CSS para un control más limpio y flexible del diseño.
+
+La identación en el código se realiza facilmente con una combkinación de teclas y es fundamental para leer el código.
+
+IMPORTANTE!
+La estructura de carpetas es muy importante siempre. Siempre debe haber:
+Una carpeta de imágenes
+Una carpeta de pages
+Una carpeta de css
+y El index.html
